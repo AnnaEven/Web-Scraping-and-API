@@ -1,5 +1,4 @@
-# Web-Scraping
-This repository will include self made projects of web scraping and collecting data using an API 
+
 
 **Amazon Product Review Scraper and Sentiment Analysis**
 **Overview**
