@@ -1,13 +1,13 @@
 **Book Recommendation App**
 Overview
-This project is a simple book recommendation app built using Python in a Jupyter Notebook. It fetches book details and provides recommendations based on either the author or the genre of a queried book. The app utilizes the Open Library API for all data retrieval.
+This project is a simple book recommendation app built using Python in a Jupyter Notebook.<br> It fetches book details and provides recommendations based on either the author or the genre of a queried book.<br> The app utilizes the Open Library API for all data retrieval.
 
 **Features**
--Book Search: Allows users to search for books by title or author. \n
--Recommendations: \n
---By Author: Recommends other books written by the same author. \n
---By Genre: Suggests books in the same genre or category. \n
---Fallback Mechanism: If no similar books by the same author or in the same genre are found, the app recommends a trending book from the Open Library. \n
+-Book Search: Allows users to search for books by title or author. <br>
+-Recommendations: <br>
+--By Author: Recommends other books written by the same author.<br>
+--By Genre: Suggests books in the same genre or category. <br>
+--Fallback Mechanism: If no similar books by the same author or in the same genre are found, the app recommends a trending book from the Open Library. <br>
 --Book Details: Displays the title, author, and cover image (if available) for both the queried book and the recommended books.
 
 **How It Works**
